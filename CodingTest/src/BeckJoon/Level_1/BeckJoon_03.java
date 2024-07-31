@@ -1,13 +1,16 @@
+package Level_1;
+
 import java.util.Scanner;
 
-public class BeckJoon_06 {
+public class BeckJoon_03 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
-        String a = sc.nextLine();
+        int a = sc.nextInt();
+        int b = sc.nextInt();
 
-        System.out.println(a + "??!");
+        System.out.println(a * b);
 
         sc.close();
     }

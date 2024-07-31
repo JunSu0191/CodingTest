@@ -1,4 +1,4 @@
-package BeckJoon_2;
+package Level_2;
 
 import java.util.Scanner;
 
